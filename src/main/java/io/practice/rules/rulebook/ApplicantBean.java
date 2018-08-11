@@ -16,7 +16,7 @@ public class ApplicantBean {
     return creditScore;
   }
 
-  public void setCreditScore(int creditScore) {     
+  public void setCreditScore(int creditScore) {
     this.creditScore = creditScore;
   }
 
